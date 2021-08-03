@@ -1,2 +1,7 @@
 grpcio
 scikit-learn
+uvicorn[standard]
+fastapi
+protobuf2pydantic
+click==7.1.1
+requests
